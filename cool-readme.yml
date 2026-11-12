@@ -12,8 +12,8 @@ cards:
   about:
     headline: "Hi, I'm Tom! 👋"
     lines:
-      - "I'm an Embedded Software Engineer based in Santa Barbara, CA, specializing in C++, Qt, QML, and Yocto Linux"
-      - "I spend my days working with C++, Qt, and CMake, and my nights optimizing my self-hosted infrastructure."
+      - "I'm an Embedded Software Engineer based in Santa Barbara, CA."
+      - "I spend my days working with Rust, C++, Qt, and CMake, and my nights optimizing my self-hosted infrastructure."
       - "When I'm not writing embedded code, I'm usually managing my Docker-based homelab infrastructure, 3D printing, or out riding sportbikes."
     facts:
       "Based in": "Santa Barbara, CA"
