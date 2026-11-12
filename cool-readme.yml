@@ -1,6 +1,6 @@
 # Settings: https://github.com/pedrocatalao/github-cool-readme#settings
 user: TomGeorgi
-show: [summary, languages, contributions, weekly, about]
+show: [summary, languages, weekly, about]
 count:
   private: true
   orgs: true
